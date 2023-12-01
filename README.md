@@ -15,7 +15,7 @@ Mac OS 10.x
 
 Alternative Link Download: https://shorturl.at/aBCU3
 
-SEND RESULTS: t.me/ShockBenchBot
+SEND RESULTS: https:/t.me/ShockBenchBot
 
 
 
