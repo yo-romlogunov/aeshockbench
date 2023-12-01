@@ -4,6 +4,7 @@ For After Effects 23.x; 24.x
 
 technical requirements:
 After Effects 23-24.x
+
 [!] Engish Language 
 
 Windows 10/11
