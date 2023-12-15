@@ -13,6 +13,14 @@ Mac OS 10.x
 
 Minimum cache size: 80 GB SSD
 
+**If the panel "Render Queue" is closed, 
+you can open the panel again 
+using a keyboard shortcut
+**
+
+Mac OS: option + command + 0
+
+Windows: Ctrl + Alt + 0
 
 ---------------------------
 
