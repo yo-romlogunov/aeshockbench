@@ -27,8 +27,7 @@ Windows: Ctrl + Alt + 0
 Alternative Link Download: https://shorturl.at/aBCU3
 
 SEND RESULTS: https://t.me/ShockBenchBot
-
-
+---------------------------
 
 
 create bench @romlogunov https://t.me/vtb_blog
