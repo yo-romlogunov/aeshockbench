@@ -31,10 +31,10 @@ SEND RESULTS: https://t.me/ShockBenchBot
 
 
 
-create bench @romlogunov
+create bench @romlogunov https://t.me/vtb_blog
 
 create Bot Telegram - Misha Lipovka
 
-special for @rozetked
+special for @rozetked https://www.youtube.com/@rozetked
 
 
