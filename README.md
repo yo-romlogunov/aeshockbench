@@ -11,6 +11,9 @@ Windows 10/11
 
 Mac OS 10.x
 
+Minimum cache size: 80 GB SSD
+
+
 ---------------------------
 
 Alternative Link Download: https://shorturl.at/aBCU3
