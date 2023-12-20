@@ -24,6 +24,7 @@ Minimum cache size: 80 GB SSD
 you can open the panel again 
 using a keyboard shortcut
 **
+
 [RU]
 если панель "Render Queue" скрыта, то для открытия используйте сочетание клавиш:
 
