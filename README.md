@@ -11,8 +11,12 @@ Windows 10/11
 
 Mac OS 10.x
 
-Please study the initial After Effects settings before starting rendering.
+[EN] Please study the initial After Effects settings before starting rendering.
 To go to the settings instructions, click the "START BENCH" button in the After Effects preview window.
+
+[RU]
+Пожалуйста, изучите первоначальные настройки After Effects перед началом старта рендеринга.
+Чтобы перейти в инструкцию настроек, нажмите кнопку "START BENCH" в окне предосмотра After Effects.
 
 Minimum cache size: 80 GB SSD
 
