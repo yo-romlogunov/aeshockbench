@@ -11,6 +11,9 @@ Windows 10/11
 
 Mac OS 10.x
 
+Please study the initial After Effects settings before starting rendering.
+To go to the settings instructions, click the "START BENCH" button in the After Effects preview window.
+
 Minimum cache size: 80 GB SSD
 
 **If the panel "Render Queue" is closed, 
