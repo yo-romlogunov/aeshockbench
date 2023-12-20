@@ -20,10 +20,13 @@ To go to the settings instructions, click the "START BENCH" button in the After 
 
 Minimum cache size: 80 GB SSD
 
-**If the panel "Render Queue" is closed, 
+[EN] **If the panel "Render Queue" is closed, 
 you can open the panel again 
 using a keyboard shortcut
 **
+[RU]
+если панель "Render Queue" скрыта, то для открытия используйте сочетание клавиш:
+
 
 Mac OS: option + command + 0
 
