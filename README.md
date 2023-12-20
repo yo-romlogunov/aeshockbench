@@ -2,7 +2,7 @@
 For After Effects
 ---------------------------
 
-technical requirements:
+Technical requirements:
 After Effects 23-24.x
 
 [!] Engish Language After Effects
