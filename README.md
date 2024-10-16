@@ -28,10 +28,9 @@ Initial settings After Effects
 4) в настройках проекта выберите рендеринг GPU, подходящий для вашей платформы: Mac OS - OpenCL/Metal, Windows - OpenCL/CUDA
 
 
-[EN] **If the panel "Render Queue" is closed, 
+[EN] If the panel "Render Queue" is closed, 
 you can open the panel again 
 using a keyboard shortcut
-**
 
 [RU]
 если панель "Render Queue" скрыта, то для открытия используйте сочетание клавиш:
@@ -45,7 +44,8 @@ Windows: Ctrl + Alt + 0
 
 Alternative Link Download: https://shorturl.at/aBCU3
 
-SEND RESULTS: https://t.me/ShockBenchBot
+Send and View result: https://t.me/ShockBenchBot
+
 ---------------------------
 
 
